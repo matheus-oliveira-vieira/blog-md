@@ -1,8 +1,8 @@
 ---
-path: '/blog/minha-pagina'
-title: 'Minha página - com foto'
-description: 'Bem-vindo'
-banner: './img1.jpg'
+path: /blog/minha-pagina
+title: Minha página - com foto Alterado com Netlify
+description: Bem-vindo
+banner: ./img1.jpg
 ---
 
 #Minha página
